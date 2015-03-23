@@ -6,6 +6,7 @@ public class hallo1 {
 		System.out.println(new hallo1("Hallo")+" Welt");
 		System.out.println("hallo");
 		System.out.println("hallo");
+		System.out.println("Hallo von Lulu");
 	}
 	String hallo;
 	public hallo1(String hallo){
